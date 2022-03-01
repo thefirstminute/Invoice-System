@@ -49,9 +49,9 @@ if (array_key_exists($i, $arr)) {
         <div class="logo">
           <img src="logo.png" alt="Logo">
         </div>
-        <p>Jay Kanik</p>
-        <p>P.O.Box 6</p>
-        <p>Victoria Harbour, Ontario</p>
+        <p>Your Name</p>
+        <p>Your Address</p>
+        <p>Other Info??</p>
       </div>
 
       <div class="customer">
@@ -120,9 +120,9 @@ if (array_key_exists($i, $arr)) {
 
   <footer>
             <p style="margin-top:1em">
-              cheques made payable to Jay Kanik,<br>
+              cheques made payable to Your Name,<br>
               BTC: 17GbiZKUTFaRBvTnTXrh1FaXqtFW2buvG5<br>
-              email transfer payments@jaykanik.com<br>
+              email transfer payments@mydomain.com<br>
               <b>Thank You!</b></p>
               
             <p style="opacity:.5">A finance charge of 1.5% will be made on unpaid balances after 30 days.</p>
