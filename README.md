@@ -1,6 +1,8 @@
 # Invoice-System
 Create, update, and track invoices on the fly
 
+![screenshot](https://github.com/thefirstminute/Invoice-System/blob/4d1c819f74e7069e28fc63858d6f82f5d469bc97/Screenshot.png)
+
 ## Installation
 Update your own logo
 Update index.php to have your info in the header and footer
