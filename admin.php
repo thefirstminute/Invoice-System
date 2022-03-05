@@ -80,7 +80,6 @@ if (!file_exists('login.php')) { /* {{{ */
   $page_body='
 <div class="login_box">
   <h2 class="text-center">Create Admin</h2>
-  '. $msg .'
   <form action="admin.php" enctype="multipart/form-data" method="post">
     <input class="login_field" type="text" name="username" placeholder="Username" />
     <input class="login_field" type="password" name="password" placeholder="Password" />
@@ -108,7 +107,6 @@ if (!file_exists('login.php')) { /* {{{ */
     $page_body='
       <div class="login_box">
       <h2 class="text-center">Login</h2>
-      '. $msg .'
       <form action="admin.php" enctype="multipart/form-data" method="post">
       <input class="login_field" type="text" name="username" placeholder="Username" />
       <input class="login_field" type="password" name="password" placeholder="Password" />
